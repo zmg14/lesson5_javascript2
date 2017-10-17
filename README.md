@@ -13,8 +13,7 @@ Zachary Greene
 I have created an expense calculator for multiple groups
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://zmg14.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. learned about different tax brackets
